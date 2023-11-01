@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_nsu2",
+    "textures": {
+        "particle": "block/blank",
+        "fire": "blocks/fire_layer_0"
+    }
+}

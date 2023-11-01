@@ -1,0 +1,6 @@
+{
+    "pack": {
+       "pack_format": 4,
+       "description": "Removes the particles that show when breaking blocks."
+    }
+ }
