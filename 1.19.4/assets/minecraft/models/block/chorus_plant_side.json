@@ -3,7 +3,7 @@
     "textures": {
         "texture": "block/chorus_plant",
         "inside": "block/chorus_plant",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 4, 4, 0 ],

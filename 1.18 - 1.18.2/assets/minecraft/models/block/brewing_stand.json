@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "base": "block/brewing_stand_base",
         "stand": "block/brewing_stand"
     },

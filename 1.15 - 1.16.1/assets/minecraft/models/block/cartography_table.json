@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube",
   "textures": {
-    "particle": "minecraft:block/blank",
+    "particle": "block/blank",
     "north": "minecraft:block/cartography_table_side3",
     "south": "minecraft:block/cartography_table_side1",
     "east": "minecraft:block/cartography_table_side3",

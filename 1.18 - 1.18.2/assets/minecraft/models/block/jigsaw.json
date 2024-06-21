@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_directional",
   "textures": {
-    "particle": "minecraft:block/blank",
+    "particle": "block/blank",
     "north": "minecraft:block/jigsaw_top",
     "south": "minecraft:block/jigsaw_bottom",
     "east": "minecraft:block/jigsaw_side",

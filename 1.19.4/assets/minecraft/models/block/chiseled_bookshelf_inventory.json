@@ -4,7 +4,7 @@
         "top": "block/chiseled_bookshelf_top",
         "side": "block/chiseled_bookshelf_side",
         "front": "block/chiseled_bookshelf_empty",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {

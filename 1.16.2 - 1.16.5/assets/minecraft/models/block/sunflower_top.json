@@ -1,7 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "cross": "block/sunflower_top",
         "back": "block/sunflower_back",
         "front": "block/sunflower_front"

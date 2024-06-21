@@ -3,7 +3,7 @@
   "textures": {
     "bottom": "minecraft:block/cake_bottom",
     "candle": "minecraft:block/white_candle_lit",
-    "particle": "minecraft:block/blank",
+    "particle": "block/blank",
     "side": "minecraft:block/cake_side",
     "top": "minecraft:block/cake_top"
   }

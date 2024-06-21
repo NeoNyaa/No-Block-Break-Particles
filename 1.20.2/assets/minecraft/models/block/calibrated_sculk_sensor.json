@@ -25,7 +25,7 @@
         "calibrated_side": "block/calibrated_sculk_sensor_input_side",
         "tendrils": "block/sculk_sensor_tendril_inactive",
         "top": "block/calibrated_sculk_sensor_top",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {

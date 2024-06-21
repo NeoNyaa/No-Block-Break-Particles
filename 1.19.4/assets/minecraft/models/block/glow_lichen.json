@@ -1,7 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "glow_lichen": "block/glow_lichen"
     },
     "elements": [

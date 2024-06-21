@@ -1,7 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "line": "block/redstone_dust_line0",
         "overlay": "block/redstone_dust_overlay"
     },

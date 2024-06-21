@@ -1,7 +1,7 @@
 {   "parent": "block/block",
     "ambientocclusion": false,
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "bottom": "block/cactus_bottom",
         "top": "block/cactus_top",
         "side": "block/cactus_side"

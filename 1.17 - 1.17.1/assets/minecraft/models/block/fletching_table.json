@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube",
   "textures": {
-    "particle": "minecraft:block/blank",
+    "particle": "block/blank",
     "north": "minecraft:block/fletching_table_front",
     "south": "minecraft:block/fletching_table_front",
     "east": "minecraft:block/fletching_table_side",

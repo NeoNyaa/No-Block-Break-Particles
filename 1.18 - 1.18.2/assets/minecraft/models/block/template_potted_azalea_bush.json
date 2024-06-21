@@ -2,7 +2,7 @@
     "parent": "block/block",
     "ambientocclusion": false,
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "flowerpot": "block/flower_pot",
         "dirt": "block/dirt",
         "azalea_plant": "block/potted_azalea_bush_plant"

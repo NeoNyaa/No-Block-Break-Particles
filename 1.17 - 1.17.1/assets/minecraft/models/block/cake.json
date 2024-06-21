@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "bottom": "block/cake_bottom",
         "top": "block/cake_top",
         "side": "block/cake_side"

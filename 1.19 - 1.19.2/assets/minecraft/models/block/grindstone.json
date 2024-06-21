@@ -4,7 +4,7 @@
         "pivot": "block/grindstone_pivot",
         "round": "block/grindstone_round",
         "side": "block/grindstone_side",
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "leg": "block/dark_oak_log"
     },
     "elements": [

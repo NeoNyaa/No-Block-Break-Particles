@@ -1,6 +1,6 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     }
 }

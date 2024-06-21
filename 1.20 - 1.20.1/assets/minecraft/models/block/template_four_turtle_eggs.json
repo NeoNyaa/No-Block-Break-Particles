@@ -2,7 +2,7 @@
     "parent": "block/block",
     "textures": {
         "all": "block/turtle_egg",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 5, 0, 4 ],

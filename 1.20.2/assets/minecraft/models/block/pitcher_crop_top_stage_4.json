@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
 		"stage_4_top": "block/pitcher_crop_top_stage_4",
 		"pitcher_top": "block/pitcher_crop_top",
 		"pitcher_side": "block/pitcher_crop_side"

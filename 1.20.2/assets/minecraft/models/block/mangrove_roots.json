@@ -3,7 +3,7 @@
     "textures": {
         "side": "block/mangrove_roots_side",
         "top": "block/mangrove_roots_top",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {

@@ -12,7 +12,7 @@
     },
     "textures": {
         "texture": "block/lightning_rod",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 6, 12, 6 ],

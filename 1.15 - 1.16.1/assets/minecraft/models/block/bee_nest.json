@@ -5,6 +5,6 @@
     "bottom": "minecraft:block/bee_nest_bottom",
     "side": "minecraft:block/bee_nest_side",
     "front": "minecraft:block/bee_nest_front",
-    "particle": "minecraft:block/blank"
+    "particle": "block/blank"
   }
 }

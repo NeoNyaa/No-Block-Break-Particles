@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "texture": "block/bamboo_large_leaves",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 0.8, 0, 8 ],

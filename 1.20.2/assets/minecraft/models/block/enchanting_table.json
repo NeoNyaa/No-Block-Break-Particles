@@ -1,6 +1,6 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "bottom": "block/enchanting_table_bottom",
         "top": "block/enchanting_table_top",
         "side": "block/enchanting_table_side"

@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "texture": "block/snow"
     },
     "elements": [

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube",
   "textures": {
-    "particle": "minecraft:block/blank",
+    "particle": "block/blank",
     "north": "minecraft:block/smithing_table_front",
     "south": "minecraft:block/smithing_table_front",
     "east": "minecraft:block/smithing_table_side",

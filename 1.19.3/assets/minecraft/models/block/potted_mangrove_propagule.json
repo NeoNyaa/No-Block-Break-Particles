@@ -1,7 +1,7 @@
 {
   "ambientocclusion": false,
   "textures": {
-    "particle": "minecraft:block/blank",
+    "particle": "block/blank",
     "sapling": "block/mangrove_propagule",
     "flowerpot": "block/flower_pot",
     "dirt": "block/dirt"

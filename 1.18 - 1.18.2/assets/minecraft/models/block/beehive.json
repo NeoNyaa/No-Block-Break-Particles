@@ -5,6 +5,6 @@
     "bottom": "minecraft:block/beehive_end",
     "side": "minecraft:block/beehive_side",
     "front": "minecraft:block/beehive_front",
-    "particle": "minecraft:block/blank"
+    "particle": "block/blank"
   }
 }

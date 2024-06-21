@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "bar": "block/dark_oak_planks",
         "post": "block/stone"
     },

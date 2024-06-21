@@ -8,7 +8,7 @@
         }
     },
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "log": "block/campfire_log"
     },
     "elements": [

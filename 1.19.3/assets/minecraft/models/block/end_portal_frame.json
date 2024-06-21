@@ -1,6 +1,6 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "bottom": "block/end_stone",
         "top": "block/end_portal_frame_top",
         "side": "block/end_portal_frame_side"

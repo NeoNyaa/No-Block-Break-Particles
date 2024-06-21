@@ -5,7 +5,7 @@
         "stem": "minecraft:block/big_dripleaf_stem",
         "side": "minecraft:block/big_dripleaf_side",
         "tip": "minecraft:block/big_dripleaf_tip",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 0, 15, 0 ],

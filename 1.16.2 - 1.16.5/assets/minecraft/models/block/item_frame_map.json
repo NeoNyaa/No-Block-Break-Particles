@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "wood": "block/birch_planks",
         "back": "block/item_frame"
     },

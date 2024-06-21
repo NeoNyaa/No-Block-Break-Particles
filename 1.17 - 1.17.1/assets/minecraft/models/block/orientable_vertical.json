@@ -1,7 +1,7 @@
 {
     "parent": "block/cube",
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "down": "#side",
         "up": "#front",
         "north": "#side",

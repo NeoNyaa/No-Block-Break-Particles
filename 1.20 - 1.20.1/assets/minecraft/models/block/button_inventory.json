@@ -1,6 +1,6 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 5, 6, 6 ],

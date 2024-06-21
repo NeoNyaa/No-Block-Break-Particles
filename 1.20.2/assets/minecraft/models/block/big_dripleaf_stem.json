@@ -2,7 +2,7 @@
     "parent": "block/block",
     "textures": {
         "stem": "block/big_dripleaf_stem",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 5, 0, 12 ],

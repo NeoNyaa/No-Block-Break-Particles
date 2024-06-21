@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "hook": "block/tripwire_hook",
         "wood": "block/oak_planks",
         "tripwire": "block/tripwire"

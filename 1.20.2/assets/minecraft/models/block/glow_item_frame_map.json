@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/template_item_frame_map",
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "wood": "block/birch_planks",
         "back": "block/glow_item_frame"
     }

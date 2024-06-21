@@ -13,7 +13,7 @@
     },
     "textures": {
         "end_rod": "block/end_rod",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {

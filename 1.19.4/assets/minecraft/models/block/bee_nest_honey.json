@@ -3,7 +3,7 @@
   "textures": {
     "bottom": "minecraft:block/bee_nest_bottom",
     "front": "minecraft:block/bee_nest_front_honey",
-    "particle": "minecraft:block/blank",
+    "particle": "block/blank",
     "side": "minecraft:block/bee_nest_side",
     "top": "minecraft:block/bee_nest_top"
   }

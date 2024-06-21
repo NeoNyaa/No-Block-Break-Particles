@@ -12,7 +12,7 @@
         }
     },
     "textures": {
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "__comment": "Left-hand post",

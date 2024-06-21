@@ -1,6 +1,6 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "all": "block/dragon_egg"
     },
     "elements": [

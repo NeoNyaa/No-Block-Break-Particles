@@ -17,7 +17,7 @@
         }
     },
     "textures": {
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

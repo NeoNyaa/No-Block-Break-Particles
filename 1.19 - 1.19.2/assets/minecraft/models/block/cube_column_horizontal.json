@@ -14,7 +14,7 @@
         }
     ],
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "down": "#end",
         "up": "#end",
         "north": "#side",

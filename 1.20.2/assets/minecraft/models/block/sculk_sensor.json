@@ -5,7 +5,7 @@
         "side": "block/sculk_sensor_side",
         "tendrils": "block/sculk_sensor_tendril_inactive",
         "top": "block/sculk_sensor_top",
-        "particle": "minecraft:block/blank"
+        "particle": "block/blank"
     },
     "elements": [
         {

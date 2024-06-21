@@ -1,6 +1,6 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "top": "block/dirt_path_top",
         "side": "block/dirt_path_side",
         "bottom": "block/dirt"

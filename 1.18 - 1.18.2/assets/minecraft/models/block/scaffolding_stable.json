@@ -1,7 +1,7 @@
 {
     "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/blank",
+        "particle": "block/blank",
         "top": "block/scaffolding_top",
         "side": "block/scaffolding_side",
         "bottom": "block/scaffolding_bottom"
