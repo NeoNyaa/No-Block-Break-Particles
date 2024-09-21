@@ -1,0 +1,45 @@
+name: Report an issue
+description: Let me know about issues with the pack itself or issues the pack causes in general.
+labels: ['bug']
+assignees: ['NeoNyaa']
+title: "[ISSUE] "
+body:
+  - type: markdown
+    attributes:
+      value: "### Please fill out the form below in order to help me understand what is going wrong and what is to be expected."
+
+  - type: textarea
+    id: issueDescription
+    attributes:
+      label: Describe the issue
+      placeholder: Describe the issue you are experiencing. The more detail, the better.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproductionSteps
+    attributes:
+      label: Steps to reproduce
+      placeholder: Give me a step by step guide to replicate the issue with each step being on a new line.
+    validations:
+      required: false
+
+  - type: textarea
+    id: modList
+    attributes:
+      label: List of installed mods
+      placeholder: Each mod should be on its own line and include its version number.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      placeholder: Paste in screenshots of the issue you are experiencing.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "Thank you for taking the time to fill out this form. I will look into it when I get the chance to do so."
