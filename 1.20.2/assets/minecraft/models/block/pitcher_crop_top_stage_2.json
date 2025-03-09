@@ -1,6 +1,6 @@
 {
-	"ambientocclusion": false,
-	"textures": {
-        "particle": "block/blank"
-    }
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "block/blank"
+  }
 }

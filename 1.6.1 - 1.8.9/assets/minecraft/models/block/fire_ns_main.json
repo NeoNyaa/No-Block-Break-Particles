@@ -1,7 +1,0 @@
-{
-    "parent": "block/fire_ns",
-    "textures": {
-        "particle": "block/blank",
-        "fire": "blocks/fire_layer_0"
-    }
-}
