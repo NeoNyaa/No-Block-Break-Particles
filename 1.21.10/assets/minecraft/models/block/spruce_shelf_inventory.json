@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_inventory",
+  "textures": {
+    "all": "minecraft:block/spruce_shelf",
+    "particle": "block/blank"
+  }
+}
